@@ -6,7 +6,7 @@ This repository documents my journey of learning the C programming language. I w
 
 ## 📚 Topics Covered
 
-- [ ] C Basics
+- [x] C Basics
 - [ ] Operators
 - [ ] Conditional Statements
 - [ ] Loops
@@ -43,4 +43,7 @@ This repository documents my journey of learning the C programming language. I w
 This repository will grow as I learn new concepts and solve more programming problems.
 
 **Learning step by step, one program at a time!** 🚀
+
+
+
 
